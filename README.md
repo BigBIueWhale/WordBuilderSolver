@@ -2,7 +2,7 @@
 # .py file was written by Ronen Zyroff
 Solve the game "WordBuilder"\
 Rules of the game:\
-Create as many valid English words as possible from a list of a few letters. You can only use each letter once, you don't have to use all the letters for each word.\
+Create as many 3, 4 and 5 letter valid English words as possible from a list of a few letters. You can only use each letter once, you don't have to use all the letters for each word.\
 For example, for the letters "appel" these are the results:\
 Three letter words: ['ale', 'alp', 'ape', 'apl', 'app', 'ela', 'epa', 'lap', 'lea', 'lep', 'pal', 'pap', 'pea', 'pep', 'ppa', 'ppl']\
 Four letter words: ['appl', 'lapp', 'leap', 'lepa', 'pale', 'palp', 'pape', 'peal', 'plap', 'plea']\
