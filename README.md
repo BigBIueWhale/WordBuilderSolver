@@ -1,5 +1,6 @@
 # WordBuilderSolver
 # .py file was written by Ronen Zyroff
+This program is written in Python 3
 Solve the game "WordBuilder"\
 Rules of the game:\
 Create as many 3, 4 and 5 letter valid English words as possible from a list of a few letters. You can only use each letter once, you don't have to use all the letters for each word.\
