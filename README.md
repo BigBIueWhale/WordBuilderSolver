@@ -1,5 +1,5 @@
 # WordBuilderSolver
-# .py file was written by Ronen Zyroff
+# .py file was written by Ronen Zyroff in 2020
 This program is written in Python 3\
 Solve the game "WordBuilder"\
 Rules of the game:\
